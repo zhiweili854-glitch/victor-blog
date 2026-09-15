@@ -1,0 +1,29 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# AI 助手工作目录
+.workbuddy/
+
+# 系统文件
+Thumbs.db
+.DS_Store
+
+# 敏感信息（密钥永远不进仓库）
+.env
+.env.*
+*.local
+*.pem
+*.key
+
+# 依赖与构建产物（子目录已有各自的 .gitignore，这里兜底）
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# 日志
+*.log
+victorBlogs-main.zip_expanded/
