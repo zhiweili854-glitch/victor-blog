@@ -8,5 +8,5 @@
 :HL["/victor-blog/_next/static/chunks/15cahw4d8-wp1.css","style"]
 :HL["/victor-blog/_next/static/chunks/0-y7.kz1~5qzw.css","style"]
 :HL["https://bu.dusays.com/2026/03/24/69c1e38b4c370.jpg","image"]
-:HL["/picture/头像.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"long-test-article","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"uloZ0UC1RY9tDVpE9jx4-"}
+:HL["/victor-blog/picture/头像.jpg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"long-test-article","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"lWbrTQ1hfO8qSSzkM8aVw"}
