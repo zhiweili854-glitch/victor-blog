@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/victor-blog/_next/static/chunks/06jzx.sv9ipne.js","/victor-blog/_next/static/chunks/12vy_4~nwl5ou.js","/victor-blog/_next/static/chunks/00-csyj9a6t-x.js"],"ViewportBoundary"]
+3:I[97367,["/victor-blog/_next/static/chunks/06jzx.sv9ipne.js","/victor-blog/_next/static/chunks/12vy_4~nwl5ou.js","/victor-blog/_next/static/chunks/00-csyj9a6t-x.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/victor-blog/_next/static/chunks/06jzx.sv9ipne.js","/victor-blog/_next/static/chunks/12vy_4~nwl5ou.js","/victor-blog/_next/static/chunks/00-csyj9a6t-x.js"],"IconMark"]
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Victor の 极客小站"}],["$","meta","1",{"name":"description","content":"北京联合大学计科在读，辅修金融。用AI Agent探索不同领域来回穿梭的极客。"}],["$","link","2",{"rel":"icon","href":"/picture/头像.jpg"}],["$","link","3",{"rel":"apple-touch-icon","href":"/picture/头像.jpg"}],["$","$L5","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uloZ0UC1RY9tDVpE9jx4-"}
